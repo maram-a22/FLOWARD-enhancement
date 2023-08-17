@@ -6,4 +6,5 @@ To assist allergic users, the Floward app incorporates a comprehensive database 
 In terms of delivery, the Floward app focuses on optimizing speed and efficiency. It integrates with local florists and delivery services, enabling users to browse a wide range of floral options and place orders seamlessly. The app employs advanced logistics algorithms to identify the nearest florists with the desired flowers in stock, ensuring faster delivery times. Real-time tracking features allow users to monitor their orders and receive updates on the delivery status, providing greater convenience and peace of mind.
 
 By combining allergy assistance and expedited delivery, the Floward app aims to revolutionize the floral industry, making it more accessible and user-friendly for everyone.
+
 ![image](https://github.com/maram-a22/FLOWARD-enhancement/assets/108218379/db54c3f0-0c69-4b15-88e4-4cfaa7c8bbce)
