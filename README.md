@@ -7,4 +7,5 @@ In terms of delivery, the Floward app focuses on optimizing speed and efficiency
 
 By combining allergy assistance and expedited delivery, the Floward app aims to revolutionize the floral industry, making it more accessible and user-friendly for everyone.
 
-![image](https://github.com/maram-a22/FLOWARD-enhancement/assets/108218379/db54c3f0-0c69-4b15-88e4-4cfaa7c8bbce)
+![image](https://github.com/maram-a22/FLOWARD-enhancement/assets/108218379/6dce7f55-c19d-401a-812a-32725f4efdbc)
+
